@@ -1,5 +1,8 @@
 # Idle Ping
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/96b0bc7e-289b-486f-b0ca-c5b167458ed7/deploy-status)](https://app.netlify.com/sites/empty-field-sheet/deploys)
+
+
 Idle ping is a very basic React implementation of an idle clicker game. It aims to create a basic set of features that can be built out into more full-fledged games.
 
 --
