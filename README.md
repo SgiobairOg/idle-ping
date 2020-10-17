@@ -1,3 +1,9 @@
+# Idle Ping
+
+Idle ping is a very basic React implementation of an idle clicker game. It aims to create a basic set of features that can be built out into more full-fledged games.
+
+--
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
