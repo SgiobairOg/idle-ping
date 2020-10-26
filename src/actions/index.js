@@ -1,4 +1,4 @@
-import { idbClear, idbSet } from './../idb';
+import { idbSet } from './../idb';
 
 export const addToClicks = (store, amount) => {
     const clicks = store.state.clicks + amount;
